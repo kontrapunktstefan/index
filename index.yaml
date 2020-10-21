@@ -19,6 +19,10 @@ packages:
     url: github.com/lyp-packages/chtab
     description: Alternative TabStaff algorithm for Lilypond
     author: Christopher Heckman
+   contemporary:
+   url: https://github.com/openlilylib/contemporary
+   description: useful things for the notation of contemporary music
+   author: Urs Liska
   dependency-test:
     url: github.com/lyp-packages/dependency-test
     description: A package to test transitive dependencies
